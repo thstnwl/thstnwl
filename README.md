@@ -40,7 +40,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thstnwl&layout=compact)](https://github.com/thstnwl/github-readme-stats)
 
 | 기간 | [소속] 직무/팀명 | 활동 내용 |
-|------|---|---|
-| 2022.03 <br>-<br> 2023.09 | [IVC LAB] 학부 연구생 | multi/burst image super resolution 연구 |
-| 2022.09 <br>-<br> 2023.06 | [Capston Design] 이공이공 | 부산 실시간 버스 공공데이터를 활용한 안드로이드 기반 실시간 버스앱 개발 [Link 3.0 장려상] |
-| 2023.01 <br>-<br> 2023.06 | [Digital Busan Academi] 4조 | 영상 및 음성 데이터를 사용한 이상행동 감지 및 알림 서비스 웹 개발 [발표과제 대상] |
+| :------: | :---: | :---: |
+| 2022.03 <br> - <br> 2023.09 | [IVC LAB] 학부 연구생 | multi/burst image super resolution 연구 |
+| 2022.09 <br> - <br> 2023.06 | [Capston Design] 이공이공 | 부산 실시간 버스 공공데이터를 활용한 안드로이드 기반 실시간 버스앱 개발 [Link 3.0 장려상] |
+| 2023.01 <br> - <br> 2023.06 | [Digital Busan Academi] 4조 | 영상 및 음성 데이터를 사용한 이상행동 감지 및 알림 서비스 웹 개발 [발표과제 대상] |

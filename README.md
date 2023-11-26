@@ -42,9 +42,9 @@
 | 기간 | [소속] 직무/팀명 | 활동 내용 |
 | :------: | :---: | :---: |
 | 2022.03 <br> - <br> 2023.12 | [IVC LAB] 학부 연구생 | multi/burst image super resolution 연구 |
-| 2022.03 <br> - <br> 2023.12 | [전자공학과] 교육과정 개편 학생 위원 | multi/burst image super resolution 연구 |
+| 2022.03 <br> - <br> 2023.12 | [전자공학과] 교육과정 개편 학생 위원 | 학생 대표 위원으로 교육과정 개편 |
 | 2022.09 <br> - <br> 2023.06 | [Capston Design] 이공이공 | [부산 실시간 버스 공공데이터를 활용한 안드로이드 기반 실시간 버스앱 개발](https://github.com/thstnwl/BUSAN) [Link 3.0 장려상] |
-| 2023.01 <br> - <br> 2023.06 | [Digital Busan Academi] 4조 | 영상 및 음성 데이터를 사용한 이상행동 감지 및 알림 서비스 웹 개발 [발표과제 대상] |
-| 2023.01 <br> - <br> 2023.06 | [BDIA JobFair] 반짝반짝 | 영상 및 음성 데이터를 사용한 이상행동 감지 및 알림 서비스 웹 개발 보완 [대학부문 우수상] |
+| 2023.01 <br> - <br> 2023.06 | [Digital Busan Academi] 4조 | [영상 및 음성 데이터를 사용한 이상행동 감지 및 알림 서비스 웹 개발](https://github.com/UiJoon64/seniorMotionDetection) [발표과제 대상] |
+| 2023.01 <br> - <br> 2023.06 | [BDIA JobFair] 반짝반짝 | [영상 및 음성 데이터를 사용한 이상행동 감지 및 알림 서비스 웹 개발 보완](https://github.com/UiJoon64/seniorMotionDetection) [대학부문 우수상] |
 | 2023.11 <br> - <br> 2023.12 | [정보융합대학 - 지역사회 문제 해결 공모전] | [부산 고령화 현황 분석 및 복지시설 위치 선정](https://github.com/UiJoon64/localproblem) [진행중..] |
 | 2023.11 <br> - <br> 2023.12 | [정보융합대학 - 데이터 분석 공모전] | 안전 지역 부산을 위한 보안등 및 CCTV 시각화 및 분석 [진행중..] |

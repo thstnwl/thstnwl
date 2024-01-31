@@ -47,4 +47,4 @@
 | 2023.01 <br> - <br> 2023.06 | [Digital Busan Academi] 4조 | [영상 및 음성 데이터를 사용한 이상행동 감지 및 알림 서비스 웹 개발](https://github.com/UiJoon64/seniorMotionDetection) [발표과제 대상] |
 | 2023.01 <br> - <br> 2023.06 | [BDIA JobFair] 반짝반짝 | [영상 및 음성 데이터를 사용한 이상행동 감지 및 알림 서비스 웹 개발 보완](https://github.com/UiJoon64/seniorMotionDetection) [대학부문 우수상] |
 | 2023.11 <br> - <br> 2023.12 | [정보융합대학 - 지역사회 문제 해결 공모전] | [부산 고령화 현황 분석 및 복지시설 위치 선정](https://github.com/UiJoon64/localproblem) [우수상] |
-| 2023.11 <br> - <br> 2023.12 | [정보융합대학 - 데이터 분석 공모전] | 안전 지역 부산을 위한 보안등 및 CCTV 시각화 및 분석 [우수상] |
+| 2023.11 <br> - <br> 2023.12 | [정보융합대학 - 데이터 분석 공모전] | [안전 지역 부산을 위한 보안등 및 CCTV 시각화 및 분석](https://github.com/thstnwl/DataAnalysis) [우수상] |

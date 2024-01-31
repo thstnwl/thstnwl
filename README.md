@@ -40,7 +40,7 @@
 | 기간 | [소속] 직무/팀명 | 활동 내용 |
 | :------: | :---: | :---: |
 | 2021.03 <br> - <br> 2023.12 | [엘도라도] 총무 | 보드게임 동아리 엘도라도의 총무로 활동 (동아리원 관리 및 회비 관리) |
-| 2022.03 <br> - <br> 2024.02 | [IVC LAB] 학부 연구생 | multi/burst image super resolution 연구 [논문 작성중...]|
+| 2022.03 <br> - <br> 2024.02 | [IVC LAB] 학부 연구생 | multi/burst image super resolution 연구(https://github.com/thstnwl/IVC) [논문 작성중...]|
 | 2022.03 <br> - <br> 2023.12 | [전자공학과] 교육과정 개편 학생 위원 | 학생 대표 위원으로 교육과정 개편 회의 참가 |
 | 2022.09 <br> - <br> 2023.06 | [Capston Design] 이공이공 | [부산 실시간 버스 공공데이터를 활용한 안드로이드 기반 실시간 버스앱 개발](https://github.com/thstnwl/BUSAN) [Link 3.0 장려상] |
 | 2023.01 <br> - <br> 2023.06 | [Digital Busan Academi] 4조 | [개인 특성 및 건강상태 맞춤 메뉴 추천 서비스](https://github.com/thstnwl/EnYum) |
